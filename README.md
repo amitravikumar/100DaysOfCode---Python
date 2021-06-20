@@ -6,3 +6,6 @@ Learning Python with 100 Days of Code Challenge
 
 ### Day 2 - Understanding Data Types and How to Manipulate Strings
 * [Tip Calculator]
+
+### Day 3 - Getting in deep to Manipulation strings and Introduction to looping 
+* [Treasure Island Mini Game]
